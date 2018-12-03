@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BottomNaviagtionBar.iml" filepath="$PROJECT_DIR$/BottomNaviagtionBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottomnavigationbar/bottomnavigationbar.iml" filepath="$PROJECT_DIR$/bottomnavigationbar/bottomnavigationbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twolevelnavigationbar/twolevelnavigationbar.iml" filepath="$PROJECT_DIR$/twolevelnavigationbar/twolevelnavigationbar.iml" />
     </modules>
   </component>
 </project>
